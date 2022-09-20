@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "368970870839",
+    "project_id": "catch-platform",
+    "storage_bucket": "catch-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368970870839:android:85373ff35557c75e8dcfb2",
+        "android_client_info": {
+          "package_name": "com.turningpoint.catch0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368970870839-45dc9u7fe3b20g0drfmqp7v4cil5e5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm79x7ot7xJ9Ety6nPDad6rg_GTn9QWOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368970870839-45dc9u7fe3b20g0drfmqp7v4cil5e5n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368970870839-cgdb7r0omm5edr9v9qfn0hp3232st944.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.turningpoint.catch0"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368970870839:android:6a70bf39ece38c5c8dcfb2",
+        "android_client_info": {
+          "package_name": "com.turningpoint.catch0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368970870839-45dc9u7fe3b20g0drfmqp7v4cil5e5n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm79x7ot7xJ9Ety6nPDad6rg_GTn9QWOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368970870839-45dc9u7fe3b20g0drfmqp7v4cil5e5n6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368970870839-cgdb7r0omm5edr9v9qfn0hp3232st944.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.turningpoint.catch0"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

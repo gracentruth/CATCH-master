@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+<<<<<<< HEAD
+	<string>368970870839-cgdb7r0omm5edr9v9qfn0hp3232st944.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.368970870839-cgdb7r0omm5edr9v9qfn0hp3232st944</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBM2eSGesbfYQ7XEm4gYAyXWcA9DePxxX4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>368970870839</string>
+=======
+	<string>378538790766-3fsa2u51o76aue5dobhj3ibg7knj15iu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.378538790766-3fsa2u51o76aue5dobhj3ibg7knj15iu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>378538790766-0jc9q9i3cmjcuu31sdjkpfoti0pcj0uc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhBTxdqDCo-fjkCeNCH74dwk5gtnrU7Hs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>378538790766</string>
+>>>>>>> 4b25932a73a926358f9db529efd04ae2be09fc0e
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.turningpoint.catch0</string>
+	<key>PROJECT_ID</key>
+	<string>catch-platform</string>
+	<key>STORAGE_BUCKET</key>
+	<string>catch-platform.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:368970870839:ios:0e468772d96635418dcfb2</string>
+</dict>
+</plist>
